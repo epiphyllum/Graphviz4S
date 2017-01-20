@@ -1,5 +1,7 @@
 # Graphviz4S
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9332cc768604514b4f3af526935f773)](https://www.codacy.com/app/epiphyllum/Graphviz4S?utm_source=github.com&utm_medium=referral&utm_content=epiphyllum/Graphviz4S&utm_campaign=badger)
+
 This project is a simply implementation of the python [Graphviz](https://github.com/xflr6/graphviz) library functionality in Scala.
 
 
